@@ -1,4 +1,4 @@
-# geodb-anon
+# anongeodb
 
 This is a temporary anonymized repository for GeoDB (temporary name).
 
